@@ -1,0 +1,5 @@
+\\kes4601-19-fsvr\user\19 intake\19OFoster\SharpDevelop Projects\Squares and Cubes - 14\Squares and Cubes - 14\obj\Debug\Squares and Cubes - 14.vbprojResolveAssemblyReference.cache
+\\kes4601-19-fsvr\user\19 intake\19OFoster\SharpDevelop Projects\Squares and Cubes - 14\Squares and Cubes - 14\bin\Debug\Squares and Cubes - 14.exe
+\\kes4601-19-fsvr\user\19 intake\19OFoster\SharpDevelop Projects\Squares and Cubes - 14\Squares and Cubes - 14\bin\Debug\Squares and Cubes - 14.pdb
+\\kes4601-19-fsvr\user\19 intake\19OFoster\SharpDevelop Projects\Squares and Cubes - 14\Squares and Cubes - 14\obj\Debug\Squares and Cubes - 14.exe
+\\kes4601-19-fsvr\user\19 intake\19OFoster\SharpDevelop Projects\Squares and Cubes - 14\Squares and Cubes - 14\obj\Debug\Squares and Cubes - 14.pdb
